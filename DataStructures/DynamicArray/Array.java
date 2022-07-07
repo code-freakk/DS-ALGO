@@ -1,3 +1,5 @@
+package DataStructures.DynamicArray;
+
 import java.util.Iterator;
 
 @SuppressWarnings("unchecked")
